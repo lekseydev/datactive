@@ -7,7 +7,7 @@ With this script, you can easily change your code depending on the month.
 
 # Example
 
-«`{css}<пробел>{
+«`{css} {
     .active {
       color: red;
     }
