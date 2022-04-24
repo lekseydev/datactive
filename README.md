@@ -14,7 +14,7 @@ With this script, you can easily change your code depending on the month.
 }«`
 
 
-«`{html}<пробел>{
+«`{html}{
 
   <div id="january">January</div>
   <div id="february">February</div>
