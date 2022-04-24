@@ -7,6 +7,8 @@ With this script, you can easily change your code depending on the month.
 
 # Example
 
+In this example , the script assigns a class .active points where the month matches
+
 ```css
 //css code
     .active {
